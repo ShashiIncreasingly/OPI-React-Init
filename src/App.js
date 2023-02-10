@@ -24,7 +24,7 @@ function App() {
 
     // If it fails we can stop here
     if (!res) {
-      alert('Increasingly Failed To Load!')
+      //alert('Increasingly Failed To Load!')
       return
     }
 
